@@ -1,3 +1,3 @@
 cleanhome
 
-https://cleanli.github.io/cleanhome/
+https://cleanli2.github.io/cleanhome/
