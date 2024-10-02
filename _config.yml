@@ -1,15 +1,15 @@
 # Site settings
 title: CleanLi的博客
 header-img: img/home-bg.jpg
-email_username: clean_li@yahoo.com
+email_username: clean_li@hotmail.com
 copyright_name: Clean Li
 blog_owner: CleanLi（黎涛）
 description: "黎涛的博客"
 baseurl: "/cleanhome"
-url: "http://cleanli.github.io"
-github_username: cleanli
+url: "http://cleanli2.github.io"
+github_username: cleanli2
 totop: true
-barcode: img/cleanli.png
+barcode: img/cleanli2.png
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
